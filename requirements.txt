@@ -1,0 +1,7 @@
+# Exact direct dependency versions exercised locally on Python 3.14.
+# Transitive dependencies are resolved by pip; this is not a full lockfile.
+numpy==2.4.1
+pandas==2.3.3
+colour-science==0.4.7
+opencv-python==4.11.0.86
+PyQt5==5.15.11
